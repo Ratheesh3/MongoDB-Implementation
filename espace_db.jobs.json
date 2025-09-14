@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "68c6d0b61576fa68e38d0893"
+  },
+  "jobId": 1,
+  "jobName": "Master",
+  "jobDescription": "Food production specialist"
+},
+{
+  "_id": {
+    "$oid": "68c6d0b61576fa68e38d0894"
+  },
+  "jobId": 2,
+  "jobName": "Engineer",
+  "jobDescription": "Maintenance and systems"
+},
+{
+  "_id": {
+    "$oid": "68c6d0b61576fa68e38d0895"
+  },
+  "jobId": 3,
+  "jobName": "Medic",
+  "jobDescription": "Healthcare and first aid"
+},
+{
+  "_id": {
+    "$oid": "68c6d0b61576fa68e38d0896"
+  },
+  "jobId": 4,
+  "jobName": "Pilot",
+  "jobDescription": "Operates EJets"
+},
+{
+  "_id": {
+    "$oid": "68c6d0b61576fa68e38d0897"
+  },
+  "jobId": 5,
+  "jobName": "Technician",
+  "jobDescription": "Repairs equipment"
+},
+{
+  "_id": {
+    "$oid": "68c6d0b61576fa68e38d0898"
+  },
+  "jobId": 6,
+  "jobName": "Biologist",
+  "jobDescription": "Studies alien flora and fauna"
+},
+{
+  "_id": {
+    "$oid": "68c6d0b61576fa68e38d0899"
+  },
+  "jobId": 7,
+  "jobName": "Security Officer",
+  "jobDescription": "Ensures safety of colonists"
+},
+{
+  "_id": {
+    "$oid": "68c6d0b61576fa68e38d089a"
+  },
+  "jobId": 8,
+  "jobName": "Communications Specialist",
+  "jobDescription": "Handles data and signals"
+},
+{
+  "_id": {
+    "$oid": "68c6d0b61576fa68e38d089b"
+  },
+  "jobId": 9,
+  "jobName": "Logistics Manager",
+  "jobDescription": "Coordinates supplies"
+},
+{
+  "_id": {
+    "$oid": "68c6d0b61576fa68e38d089c"
+  },
+  "jobId": 10,
+  "jobName": "Research Scientist",
+  "jobDescription": "Conducts scientific experiments"
+},
+{
+  "_id": {
+    "$oid": "68c6d3a01576fa68e38d08ae"
+  },
+  "jobId": 11,
+  "jobName": "Pilot",
+  "jobDescription": "Operates EJets"
+}]

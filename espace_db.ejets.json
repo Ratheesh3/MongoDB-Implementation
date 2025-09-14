@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "68c434721576fa68e38d0842"
+  },
+  "jetCode": "J001",
+  "jetType": "X-Transport",
+  "weight": 4500.5,
+  "powerSource": "Nuclear",
+  "passengerSeats": 50,
+  "nuclearEnginePower": 5200
+},
+{
+  "_id": {
+    "$oid": "68c6d08e1576fa68e38d087f"
+  },
+  "jetCode": "J003",
+  "jetType": "Cargo Shuttle",
+  "weight": 12000,
+  "powerSource": "Nuclear",
+  "passengerSeats": 10,
+  "nuclearEnginePower": 15000
+},
+{
+  "_id": {
+    "$oid": "68c6d08e1576fa68e38d0880"
+  },
+  "jetCode": "J004",
+  "jetType": "Explorer",
+  "weight": 6500,
+  "powerSource": "Solar",
+  "passengerSeats": 40,
+  "nuclearEnginePower": 0
+},
+{
+  "_id": {
+    "$oid": "68c6d08e1576fa68e38d0881"
+  },
+  "jetCode": "J005",
+  "jetType": "Mini Transport",
+  "weight": 3000,
+  "powerSource": "Hybrid",
+  "passengerSeats": 20,
+  "nuclearEnginePower": 2500
+},
+{
+  "_id": {
+    "$oid": "68c6d08e1576fa68e38d0882"
+  },
+  "jetCode": "J006",
+  "jetType": "Medical Jet",
+  "weight": 5000,
+  "powerSource": "Nuclear",
+  "passengerSeats": 30,
+  "nuclearEnginePower": 6000
+},
+{
+  "_id": {
+    "$oid": "68c6d08e1576fa68e38d0883"
+  },
+  "jetCode": "J007",
+  "jetType": "Heavy Liner",
+  "weight": 15000,
+  "powerSource": "Nuclear",
+  "passengerSeats": 300,
+  "nuclearEnginePower": 22000
+},
+{
+  "_id": {
+    "$oid": "68c6d08e1576fa68e38d0884"
+  },
+  "jetCode": "J008",
+  "jetType": "Surveyor",
+  "weight": 4000,
+  "powerSource": "Solar",
+  "passengerSeats": 12,
+  "nuclearEnginePower": 0
+},
+{
+  "_id": {
+    "$oid": "68c6d08e1576fa68e38d0885"
+  },
+  "jetCode": "J009",
+  "jetType": "Rescue Jet",
+  "weight": 4800,
+  "powerSource": "Hybrid",
+  "passengerSeats": 25,
+  "nuclearEnginePower": 4000
+},
+{
+  "_id": {
+    "$oid": "68c6d08e1576fa68e38d0886"
+  },
+  "jetCode": "J010",
+  "jetType": "VIP Shuttle",
+  "weight": 5200,
+  "powerSource": "Nuclear",
+  "passengerSeats": 15,
+  "nuclearEnginePower": 7200
+}]

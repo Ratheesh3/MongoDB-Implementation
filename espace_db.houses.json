@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "68c6d0a81576fa68e38d0888"
+  },
+  "lotNumber": "L001",
+  "numRooms": 3,
+  "squareFeet": 1200,
+  "occupants": [
+    "MC001",
+    "MC002"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c6d0a81576fa68e38d0889"
+  },
+  "lotNumber": "L002",
+  "numRooms": 2,
+  "squareFeet": 850,
+  "occupants": []
+},
+{
+  "_id": {
+    "$oid": "68c6d0a81576fa68e38d088a"
+  },
+  "lotNumber": "L003",
+  "numRooms": 4,
+  "squareFeet": 1500,
+  "occupants": [
+    "MC003"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c6d0a81576fa68e38d088b"
+  },
+  "lotNumber": "L004",
+  "numRooms": 5,
+  "squareFeet": 1800,
+  "occupants": [
+    "MC004",
+    "MC005",
+    "MC006"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c6d0a81576fa68e38d088c"
+  },
+  "lotNumber": "L005",
+  "numRooms": 2,
+  "squareFeet": 900,
+  "occupants": []
+},
+{
+  "_id": {
+    "$oid": "68c6d0a81576fa68e38d088d"
+  },
+  "lotNumber": "L006",
+  "numRooms": 6,
+  "squareFeet": 2000,
+  "occupants": [
+    "MC007",
+    "MC008"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c6d0a81576fa68e38d088e"
+  },
+  "lotNumber": "L007",
+  "numRooms": 3,
+  "squareFeet": 1100,
+  "occupants": [
+    "MC009"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c6d0a81576fa68e38d088f"
+  },
+  "lotNumber": "L008",
+  "numRooms": 4,
+  "squareFeet": 1600,
+  "occupants": [
+    "MC010",
+    "MC011"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c6d0a81576fa68e38d0890"
+  },
+  "lotNumber": "L009",
+  "numRooms": 1,
+  "squareFeet": 600,
+  "occupants": []
+},
+{
+  "_id": {
+    "$oid": "68c6d0a81576fa68e38d0891"
+  },
+  "lotNumber": "L010",
+  "numRooms": 3,
+  "squareFeet": 1250,
+  "occupants": [
+    "MC012",
+    "MC013"
+  ]
+}]
